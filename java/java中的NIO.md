@@ -1,7 +1,8 @@
 ## 简介
 从JDK1.4开始，java中提供一个种叫NIO(Non-Blocking IO)的IO处理机制。与以往的标准IO机制(BIO,Blocking IO)不同的是，新的机制把重点放在了如何缩短抽象与现实之间的距离上面。NIO中提出了一种新的抽象，NIO 弥补了原来的BIO的不足，它在标准 Java 代码中提供了高速的、面向块的I/O。
 
-NIO的包括三个核心概念:缓冲区(Buffer)、通道(Channel)、选择器(Selector)。
+NIO的包括三个核心概念:缓冲区(Buffer)、通道(Channel)、选择器(Selector)。思维导图如下：
+![NIO思维导图](./../image/java/java中的NIO/NIO思维导图.png)
 
 ## BIO与NIO
 BIO与NIO之间的共同点是他们都是同步的。而非异步的。
@@ -368,3 +369,9 @@ public abstract class DatagramChannel
         System.out.println("send end!");
     }
 ```
+
+## 他山之石
+- 关于异步，同步，阻塞与非阻塞: [http://blog.csdn.net/brainkick/article/details/9312407](http://blog.csdn.net/brainkick/article/details/9312407)
+- Java NIO系列教程: [http://ifeve.com/java-nio-all/](http://ifeve.com/java-nio-all/)
+- 官网java7 apiw文档: [http://docs.oracle.com/javase/7/docs/api/](http://docs.oracle.com/javase/7/docs/api/)
+- java NIO详解: [http://zalezone.cn/2014/09/17/NIO%E7%B2%BE%E7%B2%B9/](http://zalezone.cn/2014/09/17/NIO%E7%B2%BE%E7%B2%B9/)
