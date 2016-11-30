@@ -373,5 +373,5 @@ public abstract class DatagramChannel
 ## 他山之石
 - 关于异步，同步，阻塞与非阻塞: [http://blog.csdn.net/brainkick/article/details/9312407](http://blog.csdn.net/brainkick/article/details/9312407)
 - Java NIO系列教程: [http://ifeve.com/java-nio-all/](http://ifeve.com/java-nio-all/)
-- 官网java7 apiw文档: [http://docs.oracle.com/javase/7/docs/api/](http://docs.oracle.com/javase/7/docs/api/)
+- 官网java7 api文档: [http://docs.oracle.com/javase/7/docs/api/](http://docs.oracle.com/javase/7/docs/api/)
 - java NIO详解: [http://zalezone.cn/2014/09/17/NIO%E7%B2%BE%E7%B2%B9/](http://zalezone.cn/2014/09/17/NIO%E7%B2%BE%E7%B2%B9/)
