@@ -1,3 +1,6 @@
+## [综合](./comprehensive)
+- [2016年，我对爬虫的总结](./comprehensive/2016年，我对爬虫的总结.md)
+
 ## [java](./java)
 - [java中的内存模型](./java/java中的内存模型.md)
 - [java虚拟机故障处理工具](./java/java虚拟机故障处理工具.md)
