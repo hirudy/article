@@ -2,17 +2,16 @@
 
 ## 个人信息
 
-- 谭明/男/1994
-- 本科/西南交通大学(211)-计算机系
-- 工作年限：2年
-- 技术博客：[http://www.jianshu.com/users/5a327aab786a/latest_articles](http://www.jianshu.com/users/5a327aab786a/latest_articles)
-- Github： [https://github.com/hirudy](https://github.com/hirudy)
-- 期望职位：后端工程师(java/python/php)
-- 期望薪资：月薪16k
-- 期望城市：深圳
-- 手机： 18583709203
-- 邮箱：hirudy@qq.com、hirudytan@gmail.com
-- QQ：841927469
+- 谭明/男/1994/本科/西南交通大学(211)-计算机系
+- 工作年限: 2年
+- 技术博客: [http://www.jianshu.com/users/5a327aab786a/latest_articles](http://www.jianshu.com/users/5a327aab786a/latest_articles)
+- Github: [https://github.com/hirudy](https://github.com/hirudy)
+- 掘金分享社区: [https://gold.xitu.io/user/57a3f37d8ac247005f19929d](https://gold.xitu.io/user/57a3f37d8ac247005f19929d)
+- 期望职位/薪资/城市: 后端工程师(java/python/php)
+- 期望薪资与城市: 月薪16k，深圳
+- 手机: 18583709203
+- 邮箱: hirudy@qq.com、hirudytan@gmail.com
+- QQ: 841927469
 
 ## 技能清单
 
