@@ -4,7 +4,7 @@
 
 - 谭明/男/1994/本科/西南交通大学(211)-计算机系
 - 工作年限: 2年
-- 技术博客: [http://www.jianshu.com/users/5a327aab786a/latest_articles](http://www.jianshu.com/users/5a327aab786a/latest_articles)
+- 技术博客: [http://www.jianshu.com/u/5a327aab786a](http://www.jianshu.com/u/5a327aab786a)
 - Github: [https://github.com/hirudy](https://github.com/hirudy)
 - 掘金分享社区: [https://gold.xitu.io/user/57a3f37d8ac247005f19929d](https://gold.xitu.io/user/57a3f37d8ac247005f19929d)
 - 期望职位/薪资/城市: 后端工程师(java/python/php)
@@ -61,7 +61,7 @@
 
 ***5. 脏词过滤服务***
 
-- 脏词过滤：维护与后期开发，消息队列中转，具体脏词通过java服务事项，字典树。过滤用户评论。
+- 脏词过滤：维护与后期开发，消息队列中转，具体脏词通过java服务事项，建立脏词单词前缀树，匹配时间复杂度不会因脏词库的增加而增加。
 
 ***6. 其他***
 
