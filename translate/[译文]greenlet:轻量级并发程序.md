@@ -1,5 +1,7 @@
 原文：[https://greenlet.readthedocs.io/en/latest/](https://greenlet.readthedocs.io/en/latest/)
 
+博客地址：[http://www.jianshu.com/u/5a327aab786a](http://www.jianshu.com/u/5a327aab786a)
+
 # 背景
 
 `greenlet`包是[Stackless](https://bitbucket.org/stackless-dev/stackless/wiki/Home)的衍生产品，它是一个支持微线程（叫tasklets）的CPython版本。Tasklets运行在伪并发模式下（通常在一个或少许的OS级别的线程），他们通过“channels”来交互数据。
