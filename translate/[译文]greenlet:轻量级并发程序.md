@@ -147,12 +147,14 @@ gr1.switch("hello", " world")
 - `g.dead`： bool值，当`g`死亡了，值为True。
 - `bool(g)`：bool值，当返回结构是True，表示`g`还活跃，如果是False，表示它死亡了或者还没开始。
 - `g.throw([typ, [val, [tb]]])`：切换到`g`执行，但是立马抛出一个给定的异常。如果没有参数提供，默认异常是`greenlet.GreenletExit`。同上面描述一样，正常的异常传递规则生效。调用该方法同下面代码是几乎等价的：
+
     ```python
     def raiser():
         raise typ, val, tb
     g_raiser = greenlet(raiser, parent=g)
     g_raiser.switch()
     ```
+    
     有一点不同的是，这段代码不能用于`greenlet.GreenletExit`异常，这个异常将不会从`g_raiser`传播到`g`。
 
 ## Greenlets与python的线程
