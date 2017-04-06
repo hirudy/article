@@ -24,3 +24,5 @@
 
 - [[译文]python2还是python3](./translate/[译文]python2还是python3.md)
 - [[译文]greenlet:轻量级并发程序](./translate/[译文]greenlet:轻量级并发程序.md)
+
+## other
