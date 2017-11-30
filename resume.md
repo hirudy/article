@@ -13,16 +13,24 @@
 # 技能清单
 
 - 基础：常用数据结构与算法、linux操作系统、数据库原理、tcp/udp/http、dfa、部分设计模式、协程
-- 程序语言工具：熟悉java、php、python、javascript/html/css,了解c、lua
-- 开发框架：熟悉yii、jquery、thrift、workerman, 了解swoole
+- 程序语言工具：熟悉java、php。了解python、javascript/html/css
+- 开发框架：熟悉yii、jquery、thrift、workerman、dubbo, 了解swoole
 - 数据库：熟悉mysql、redis、beanstalk消息队列， 了解memcache、zookeeper、mongodb
 - web容器：熟悉nginx, 了解apache
 - 操作系统：熟悉linux/unix，熟悉crontab、shell，awk，sed等等
 - 工程相关：熟悉svn/maven/pecl/jinkens/禅道/阿里rap, 了解git/jumpserver
 
 # 工作经历与项目经验
+## 乐信集团-分期乐（2017.03 - 至今）
+乐信集团为一家互联网金融公司。
 
-## 掌游宝(2015.06 - 至今)
+#### 1.Tab项目
+协调多个开发成员多个部门，完成app一级页面入口接入。
+
+#### 2.秒杀活动及其部分活动模板化
+完成秒杀服务，提供常用活动模板化
+
+## 掌游宝(2015.06 - 2017.02)
 成都我趣科技公司的掌游宝是一款移动端游戏社区综合平台。注册用户3000万，日活200万，员工大部分是腾讯出来。
 
 #### 1.接口网关与java服务
