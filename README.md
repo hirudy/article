@@ -1,6 +1,3 @@
-## 其他
-- [个人简历](./resume.md)
-
 ## [综合](./comprehensive)
 
 - [2016年，我对爬虫的总结](./comprehensive/2016年，我对爬虫的总结.md)
