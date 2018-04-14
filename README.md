@@ -1,9 +1,14 @@
-## [综合](./comprehensive)
+## [架构](./comprehensive)
 
+-【180414】分布式锁（redis/mysql）:[https://www.jianshu.com/p/e4174e499798](https://www.jianshu.com/p/e4174e499798)
+-【180409】本地缓存的选择及其原理:[https://www.jianshu.com/p/e936ce1a4984](https://www.jianshu.com/p/e936ce1a4984)
+-【170921】秒杀系统设计狂想曲:[https://www.jianshu.com/p/ac2b24e471cf](https://www.jianshu.com/p/ac2b24e471cf)
 - [2016年，我对爬虫的总结](./comprehensive/2016年，我对爬虫的总结.md)
 
 ## [java](./java)
 
+- (102)Spring 之 AOP: [https://www.jianshu.com/p/570c5283b1fc](https://www.jianshu.com/p/570c5283b1fc)
+- (101)Spring 之 IOC及其容器:[https://www.jianshu.com/p/7323c74ab127](https://www.jianshu.com/p/7323c74ab127)
 - [java中的内存模型](./java/java中的内存模型.md)
 - [java虚拟机故障处理工具](./java/java虚拟机故障处理工具.md)
 - [junit4备忘录](./java/junit4备忘录.md)
